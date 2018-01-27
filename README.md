@@ -12,7 +12,7 @@ Using CookieCutter for your project
 -----------------------------------
 
     $ pip install cookiecutter
-    $ cookiecutter https://github.com/wdm0006/cookiecutter-pipproject.git
+    $ cookiecutter https://github.com/RPing/cookiecutter-pipproject.git
 
 You will be asked about your basic info (name, project name, app name, etc.). This info will be used in your new project.
 
@@ -24,7 +24,7 @@ There are two ways to publish your project:
 
  * the manual way, outlined [here](http://www.willmcginnis.com/2015/11/12/create-a-pip-installable-python-package-in-2-minutes/)
  * and with pypi-publisher [ppp](https://github.com/wdm0006/pypi-publisher)
- 
+
 Goals
 -----
 
@@ -39,7 +39,7 @@ In the future, we may include some other things like:
 
  * basic travic ci configuration
  * anything else you think might make sense (open up an issue with ideas).
- 
+
 Contributing
 ------------
 
